@@ -9,8 +9,9 @@
 #calculator{
     background-color: hsl(0, 0%, 10%);
     border-radius: 20px;
-    width: 100px;
+    width: 500px;
     overflow: hidden;
+    transform: scale(0.5);
 }
 #display{
     width: 500px;
