@@ -9,7 +9,7 @@
 #calculator{
     background-color: hsl(0, 0%, 10%);
     border-radius: 20px;
-    width: 500px;
+    width: 100px;
     overflow: hidden;
 }
 #display{
