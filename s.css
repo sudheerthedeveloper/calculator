@@ -10,7 +10,6 @@
     background-color: hsl(0, 0%, 10%);
     border-radius: 20px;
     width: 500px;
-    overflow: hidden;
     transform: scale(0.5);
 }
 #display{
@@ -20,6 +19,7 @@
     font-size: 50px;
     color: white;
     text-align: left;
+    border-radius: 20px;
 }
 #keys{
     display: grid;
